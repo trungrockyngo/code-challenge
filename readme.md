@@ -1,10 +1,26 @@
-# 99Tech Code Challenge #1 #
+# 99Tech Code Challenge Solutions
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+This repository contains full-stack code challenge solutions categorized into dedicated **Frontend** and **Backend** workspaces.
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+---
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+## 📁 Solution Index
+
+### 🎨 [Frontend Workspace](./frontend)
+* **[Problem 1](./frontend/problem1)**: Three ways to sum to N (TypeScript)
+* **[Problem 2](./frontend/problem2)**: Fancy Form - Currency Swap UI (React + Vite + Tailwind CSS)
+* **[Problem 3](./frontend/problem3)**: Messy React - Code Review & Refactored Component
+
+### ⚙️ [Backend Workspace](./backend)
+* **[Problem 5](./backend/problem5)**: Express.js TypeScript RESTful CRUD API (Prisma ORM + SQLite)
+* **[Problem 6](./backend/problem6)**: Live Scoreboard Architecture Specification & Anti-Cheat System
+
+---
+
+## 🚀 Quick Start Instructions
+
+### Frontend (Problem 2 UI)
+```bash
+cd frontend/problem2
+npm install
+npm run dev
